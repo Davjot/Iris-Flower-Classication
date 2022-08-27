@@ -29,4 +29,3 @@ This project focuses on IRIS flower classification using Machine Learning with s
 The program then divides the dataset into training and testing samples in 75:25 ratio randomly using train_test_learn() function available in sklearn module.
 
 Accuracy score is then calculated by comparing with the correct results of the training dataset.
-
