@@ -6,8 +6,11 @@ The data set consists of 150 samples from each of three species of Iris (Iris se
 
 Four features were measured from each sample (in centimetres):
   --> Length of the sepals
+  
   --> Width of the sepals
+  
   --> Length of the petals
+  
   --> Width of the petals
 
 This project focuses on IRIS flower classification using Machine Learning with scikit tools. Algorithms used for predicting and getting accuracy are :
