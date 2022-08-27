@@ -1,5 +1,13 @@
 # Iris-Flower-Classication
 
+Three classes for classification are as follows:
+
+--> Iris-setosa
+
+--> Iris-versicolor
+
+--> Iris-virginica
+
 ![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a37626e4c4b73436858713934516a744169526e3430772e706e67](https://user-images.githubusercontent.com/71970250/187020287-cab08e0e-c3a5-42fe-867b-4c3bf6d1de02.png)
 
 The data set consists of 150 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor).
