@@ -6,7 +6,11 @@
 This project focuses on IRIS flower classification using Machine Learning with scikit tools. Algorithms used for predicting and getting accuracy are :
 
 Dicision tree classifier
+
 K nearest classifier
+
 SVM
+
 Logistic Regression
+
 Naive Bayes
